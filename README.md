@@ -1,3 +1,5 @@
+Fala devs, esse projeto pode ser visto com uma visualização mais rapida usando o link do trello, proximas atualizações e mudanças em tempo real neste link: https://trello.com/b/3bMxVzgE/projeto-navioprojeto
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
