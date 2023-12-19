@@ -1,4 +1,4 @@
-Fala devs, esse projeto pode ser visto de uma forma mais rapida usando o link do trello. Próximas atualizações e mudanças em tempo real neste link: https://trello.com/b/3bMxVzgE/projeto-navioprojeto
+Fala devs. Esse projeto pode ser visto de uma forma mais rapida usando o link do trello. Próximas atualizações e mudanças em tempo real neste link: https://trello.com/b/3bMxVzgE/projeto-navioprojeto
 
 # Getting Started with Create React App
 
